@@ -1,7 +1,7 @@
 # cj1063-s-websites-testing
 this is going be hosted using github pages and I'll share assets (I barely know HTML)
 
-## Examples:
+## Examples (GNOME on linux mint):
 -------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/fcdf5eb3-7f97-4127-b192-a82e2bf13e5c)
 
