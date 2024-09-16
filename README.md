@@ -1,5 +1,9 @@
 # cj1063-s-websites-testing
-this is going be hosted using github pages and I'll share assets (I barely know HTML)
+This is a repository for sharing wallpapers and assets.
+
+To submit an image to be added, please use the same art style we use for the wallpapers already added and submit it to issues.
+
+If you want to submit a request to have someone make an image or just want to contact me, join the discord (bvHEEMPSt6).
 
 ## Examples (GNOME on linux mint):
 -------------------------------------------------------
