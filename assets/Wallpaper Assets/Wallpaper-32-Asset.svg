@@ -41,9 +41,9 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
      inkscape:snap-global="false"
-     inkscape:zoom="0.3763854"
-     inkscape:cx="1050.7846"
-     inkscape:cy="500.81645"
+     inkscape:zoom="1.0645787"
+     inkscape:cx="349.90368"
+     inkscape:cy="608.22184"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
      inkscape:window-x="1366"
@@ -302,10 +302,14 @@
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:#008787;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 65.63459,141.54701 c -22.957548,11.98739 -44.465111,57.70473 -32.53515,82.26749 11.92996,24.56275 57.295296,27.97088 80.25254,15.98326 22.95725,-11.98763 23.50575,-39.3702 11.57631,-63.93318 -11.92944,-24.56299 -36.336152,-46.30497 -59.2937,-34.31757 z"
+       d="m 71.14487,119.54684 c -21.848831,11.9854 -45.81369,69.29058 -35.39677,99.45242 10.41692,30.16184 55.21445,33.17805 77.06302,21.19241 21.84856,-11.98563 20.7476,-38.97179 10.33094,-69.13366 -10.41667,-30.16187 -30.148359,-63.49657 -51.99719,-51.51117 z"
        id="path7169"
-       inkscape:original-d="m 64.184657,107.81695 c -21.507299,45.7176 -43.01486,91.43494 -64.52268878,137.15202 45.36741378,3.40852 90.73274978,6.81665 136.09873178,10.22458 0.54879,-27.38341 1.0973,-54.76598 1.64556,-82.14936 -24.40742,-21.74258 -48.814137,-43.48456 -73.221603,-65.22724 z"
-       inkscape:path-effect="#path-effect7171" />
+       inkscape:original-d="M 73.261435,74.225769 C 49.296359,131.53237 25.331499,188.83755 1.365417,246.14476 c 44.799586,3.01659 89.597117,6.03279 134.395283,9.04879 -1.10076,-26.98752 -2.20173,-53.97368 -3.30302,-80.96171 C 112.72547,140.89609 92.993782,107.56139 73.261435,74.225769 Z"
+       inkscape:path-effect="#path-effect7171"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/ogyun/Documents/site/cj1063-s-websites-testing/assets/Wallpapers/Wallpaper-32.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:#008787;fill-opacity:1;stroke:#000000;stroke-width:0.344122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 213.90176,123.60864 C 238.93021,113.78779 264.29056,42.917293 251.01378,-0.10289093 237.737,-43.123075 185.82328,-58.286271 160.79537,-48.465464 c -25.02791,9.820807 -23.16928,44.6247335 -9.89243,87.644289 13.27684,43.019556 37.97037,94.250665 62.99882,84.429815 z"
