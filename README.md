@@ -15,3 +15,5 @@ If you want to submit a request to have someone make an image or just want to co
 
 ![image](https://github.com/user-attachments/assets/a61ef22c-b63a-492f-a322-a44342c999cf)
 -------------------------------------------------------
+
+For permissions to use wallpapers from here, please make an issue request with the tag "Wallpaper Permissions"
